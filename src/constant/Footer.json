@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Learn more",
+        "links": [
+            "About Us",
+            "Contact Us",
+            "Privacy Policy",
+            "Terms of Use"
+        ]
+    },
+    {
+        "title": "Follow Us",
+        "links": [
+            "Facebook",
+            "Twitter",
+            "Instagram"
+            ]
+
+    }
+]
